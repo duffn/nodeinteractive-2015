@@ -4,10 +4,10 @@ This is a list - with video, slides and code when available (coming soon) - of a
 This list is divided into sections by keynotes, panels lightning talks and breakouts. Breakouts are further divided into backend, frontend or IoT categories as noted on the [conference schedule](http://events.linuxfoundation.org/events/node-interactive/program/schedule).
 
 ## Keynotes
-* Convergence: Evolving Node.js with Open Governance and an Open Community - [James Snell](https://github.com/jasnell)
+* Convergence: Evolving Node.js with Open Governance and an Open Community - [James Snell](https://github.com/jasnell), IBM
   * [Video](https://www.youtube.com/watch?v=O28Knn00qYo)
 
-* The World is being Reinvented in Code - Jason Gartner
+* The World is being Reinvented in Code - Jason Gartner, IBM
   * [Video](https://www.youtube.com/watch?v=iiLCWMoI6D0)
 
 * Node.js at Uber - [Tom Croucher](https://github.com/jasnell), Uber
@@ -29,16 +29,16 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Node.js at PayPal - [Matt Edelman](https://github.com/grawk), PayPal
   * [Video](https://www.youtube.com/watch?v=-00ImeLt9ec)
 
-* Sprouting Node.js Roots at Ancestry - Robert Schultz, Ancestry.com
+* Sprouting Node.js Roots at Ancestry - [Robert Schultz](https://github.com/robertschultz), Ancestry.com
   * [Video](https://www.youtube.com/watch?v=MYeG3BYcOqo)
 
-* Node.js at CapitalOne - Azat Mardan, CapitalOne
+* Node.js at CapitalOne - [Azat Mardan](https://github.com/azat-co), CapitalOne
   * [Video](https://www.youtube.com/watch?v=BJPeLJhv1Ic)
 
-* Node.js at Netflix - Kim Trott, Netflix
+* Node.js at Netflix - [Kim Trott](https://github.com/ktrott), Netflix
   * [Video](https://www.youtube.com/watch?v=p74282nDMX8)
 
-* Node.js at GoDaddy - Charlie Robbins, GoDaddy
+* Node.js at GoDaddy - [Charlie Robbins](https://github.com/indexzero), GoDaddy
   * [Video](https://www.youtube.com/watch?v=MtpGVP-Qs-k)
 
 ## Panels
@@ -72,10 +72,10 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Make Printers Great Again - Thomas Watson, Opbeat
   * [Video](https://www.youtube.com/watch?v=58Ti8w1yX2w)
 
-* Debugging Node.js in Production - Yunong Xiao, Netflix
+* Debugging Node.js in Production - [Yunong Xiao](https://github.com/yunong), Netflix
   * [Video](https://www.youtube.com/watch?v=CiqzuIUwHl8)
 
-* Getting a Handle On Your Dependencies - Dan Silivestru, bitHound
+* Getting a Handle On Your Dependencies - [Dan Silivestru](https://github.com/dansilivestru), bitHound
   * [Video](https://www.youtube.com/watch?v=2_aclLr3o5s)
 
 * Building and Engaging High Performance Teams in the Node.js Ecosystem - Chanda Dharap, StrongLoop Inc, an IBM Company
@@ -132,7 +132,7 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Plumbing the Depths of Handlebars - Ryan Lewis, Expedia
   * [Video](https://www.youtube.com/watch?v=hlD1Sf22PF0)
 
-* Modernizing Winston for Node.js v4 - Charlie Robbins, GoDaddy
+* Modernizing Winston for Node.js v4 - [Charlie Robbins](https://github.com/indexzero), GoDaddy
   * [Video](https://www.youtube.com/watch?v=uPw7QIx3JZM)
 
 * Making Your Node.js Applications Debuggable - Patrick Mueller, NodeSource
