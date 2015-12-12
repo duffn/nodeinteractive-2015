@@ -4,29 +4,29 @@ This is a list - with video, slides and code when available (coming soon) - of a
 This list is divided into sections by keynotes, panels lightning talks and breakouts. Breakouts are further divided into backend, frontend or IoT categories as noted on the [conference schedule](http://events.linuxfoundation.org/events/node-interactive/program/schedule).
 
 ## Keynotes
-* Convergence: Evolving Node.js with Open Governance and an Open Community - James Snell
+* Convergence: Evolving Node.js with Open Governance and an Open Community - [James Snell](https://github.com/jasnell)
   * [Video](https://www.youtube.com/watch?v=O28Knn00qYo)
 
 * The World is being Reinvented in Code - Jason Gartner
   * [Video](https://www.youtube.com/watch?v=iiLCWMoI6D0)
 
-* Node.js at Uber - Tom Croucher, Uber
+* Node.js at Uber - [Tom Croucher](https://github.com/jasnell), Uber
   * [Video](https://www.youtube.com/watch?v=ElI5QtUISWM)
 
-* Node.js and npm by Numbers - Ashley Williams, npm
+* Node.js and npm by Numbers - [Ashley Williams](https://github.com/ashleygwilliams), npm
   * [Video](https://www.youtube.com/watch?v=5ikjwX2ur2U)
 
-* Serving the Node.js Enterprise, Thus Serving the Community - Joe McCann, NodeSource
+* Serving the Node.js Enterprise, Thus Serving the Community - [Joe McCann](https://github.com/joemccann), NodeSource
   * [Video](https://www.youtube.com/watch?v=wF1oNXeFnWI)
 
-* The Node.js Foundation Growth and Goals - Mikeal Rogers, Community Manager
+* The Node.js Foundation Growth and Goals - [Mikeal Rogers](https://github.com/mikeal), Community Manager
   * [Video](https://www.youtube.com/watch?v=hrqvQZg8y-g)
 
 * The Next Era of Node.js - Danese Cooper, Node.js Foundation
   * [Video](https://www.youtube.com/watch?v=9XlGDVXk2hM)
 
 ## Case studies
-* Node.js at PayPal - Matt Edelman, PayPal
+* Node.js at PayPal - [Matt Edelman](https://github.com/grawk), PayPal
   * [Video](https://www.youtube.com/watch?v=-00ImeLt9ec)
 
 * Sprouting Node.js Roots at Ancestry - Robert Schultz, Ancestry.com
