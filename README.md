@@ -10,7 +10,7 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * The World is being Reinvented in Code - Jason Gartner, IBM
   * [Video](https://www.youtube.com/watch?v=iiLCWMoI6D0)
 
-* Node.js at Uber - [Tom Croucher](https://github.com/jasnell), Uber
+* Node.js at Uber - [Tom Croucher](https://github.com/sh1mmer), Uber
   * [Video](https://www.youtube.com/watch?v=ElI5QtUISWM)
 
 * Node.js and npm by Numbers - [Ashley Williams](https://github.com/ashleygwilliams), npm
