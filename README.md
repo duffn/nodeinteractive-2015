@@ -42,34 +42,34 @@ This list is divided into sections by keynotes, panels lightning talks and break
   * [Video](https://www.youtube.com/watch?v=MtpGVP-Qs-k)
 
 ## Panels
-* Node.js Foundation Board Panel - Mikeal Rogers, Community Manager; Danese Cooper, Paypal; Bill Fine, Joyent; Todd Moore, IBM; Charlie Robbins, GoDaddy; Gianugo Rabellno, Microsoft; Rich Sharples, Red Hat
+* Node.js Foundation Board Panel - [Mikeal Rogers](https://github.com/mikeal), Community Manager; Danese Cooper, Paypal; Bill Fine, Joyent; Todd Moore, IBM; [Charlie Robbins](https://github.com/indexzero), GoDaddy; Gianugo Rabellno, Microsoft; [Rich Sharples](https://github.com/richsharples), Red Hat
   * [Video](https://www.youtube.com/watch?v=dLtiP7HUpNM)
 
-* Node.js Foundation TSC Panel - Chris Dickinson, Colin Ihrig, Jeremiah Senkpiel, James M. Snell
+* Node.js Foundation TSC Panel - [Chris Dickinson](https://github.com/chrisdickinson), [Colin Ihrig](https://github.com/cjihrig), [Jeremiah Senkpiel](https://github.com/Fishrock123), [James M. Snell](https://github.com/jasnell)
   * [Video](https://www.youtube.com/watch?v=wONUEDVOTfE)
 
-* Node.js and Docker Panel Discussion - Joab Jackson and Alex Williams, The New Stack; Bryan Cantrill, Joyent; Peter Elger, NearForm; Jacob Groundwater, New Relic; Matt Hernandez, Modulus
+* Node.js and Docker Panel Discussion - Joab Jackson and Alex Williams, The New Stack; [Bryan Cantrill](https://github.com/bcantrill), Joyent; [Peter Elger](https://github.com/pelger), NearForm; [Jacob Groundwater](https://github.com/groundwater), New Relic; [Matt Hernandez](https://github.com/fiveisprime), Modulus
   * [Video](https://www.youtube.com/watch?v=F2R1XxY7QTg)
 
 * Node.js for Enterprise APIs Panel Discussion - Juan Carlos Santos, StrongLoop; Joe Rice, Bank of America; Bryan Rogers, TD Bank; Shelby Sanders, GoDaddy
   * [Video](https://www.youtube.com/watch?v=SYNJFX0oIBU)
 
 ## Lightning talks
-* Modulus: Deploy for Dogs - Tara Manicsic, Modulus
+* Modulus: Deploy for Dogs - [Tara Manicsic](https://github.com/tzmanics), Modulus
   * [Video](https://www.youtube.com/watch?v=Uskst7kugZo)
 
-* Node.js and Joyent - Bryan Cantrill, Joyent
+* Node.js and Joyent - [Bryan Cantrill](https://github.com/bcantrill), Joyent
   * [Video](https://www.youtube.com/watch?v=dWwIHRLzLew)
 
-* Real-time diabetes management with Node.js and Microsoft Azure - Scott Hanselman, Microsoft
+* Real-time diabetes management with Node.js and Microsoft Azure - [Scott Hanselman](https://github.com/shanselman), Microsoft
   * [Video](https://www.youtube.com/watch?v=TSBZIoLWJQo)
 
 ## Breakouts
 ### Backend
-* Streams and You: A Love Story - Calvin Metcalf, App Geo
+* Streams and You: A Love Story - [Calvin Metcalf](https://github.com/calvinmetcalf), App Geo
   * [Video](https://www.youtube.com/watch?v=TyXgy5Wm948)
 
-* Make Printers Great Again - Thomas Watson, Opbeat
+* Make Printers Great Again - [Thomas Watson](https://github.com/watson), Opbeat
   * [Video](https://www.youtube.com/watch?v=58Ti8w1yX2w)
 
 * Debugging Node.js in Production - [Yunong Xiao](https://github.com/yunong), Netflix
@@ -81,52 +81,52 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Building and Engaging High Performance Teams in the Node.js Ecosystem - Chanda Dharap, StrongLoop Inc, an IBM Company
   * [Video](https://www.youtube.com/watch?v=OV2484MKwhw)
 
-* Go Ahead, Roll Your Own Framework - Ryan Stevens, LendingClub
+* Go Ahead, Roll Your Own Framework - [Ryan Stevens](https://github.com/ryanstevens), LendingClub
   * [Video](https://www.youtube.com/watch?v=CIVhvhdISRI)
 
-* Reaching Ludicrous Speed - Matteo Collina, nearForm
+* Reaching Ludicrous Speed - [Matteo Collina](https://github.com/mcollina), nearForm
   * [Video](https://www.youtube.com/watch?v=_0W_822Dijg)
 
-* FrontendFS: Creating a Filesystem for Web Development Using Node.js - Clay Smith, New Relic
+* FrontendFS: Creating a Filesystem for Web Development Using Node.js - [Clay Smith](https://github.com/smithclay), New Relic
   * [Video](https://www.youtube.com/watch?v=SG10bZeYi6k)
 
-* Lessons Learned: Extending Node.js with Another JavaScript Engine - Arunesh Chandra, Microsoft
+* Lessons Learned: Extending Node.js with Another JavaScript Engine - [Arunesh Chandra](https://github.com/aruneshchandra), Microsoft
   * [Video](https://www.youtube.com/watch?v=Zbc3SwMDWf0)
 
-* Stellar Module Management - David Dias, Protocol Labs
+* Stellar Module Management - [David Dias](https://github.com/diasdavid), Protocol Labs
   * [Video](https://www.youtube.com/watch?v=-S-Tc7Gl8FM)
 
-* Resource Management in Node.js - Bradley Meck, NodeSource
+* Resource Management in Node.js - [Bradley Meck](https://github.com/bmeck), NodeSource
 
-* Node.js API Pitfalls: Can You Spot Them? - Sam Roberts, Strongloop
+* Node.js API Pitfalls: Can You Spot Them? - [Sam Roberts](https://github.com/sam-github), Strongloop
   * [Video](https://www.youtube.com/watch?v=jJaIwea8r2A)
 
-* Peer-to-Peer Numeric Computing with JavaScript - Athan Reines, Verbify, Inc.
+* Peer-to-Peer Numeric Computing with JavaScript - [Athan Reines](https://github.com/kgryte), Verbify, Inc.
   * [Video](https://www.youtube.com/watch?v=CbYDU1XFhHg)
   * Code
     * [Example](https://github.com/kgryte/talks-nodejs-interactive-2015)
 
-* Microservice Developer Experience - Peter Elger, nearForm
+* Microservice Developer Experience - [Peter Elger](https://github.com/pelger), nearForm
   * [Video](https://www.youtube.com/watch?v=jm75pxsb80c)
 
-* How to Build and Deploy Open Source Application Monitoring Solutions - Chris Bailey, IBM
+* How to Build and Deploy Open Source Application Monitoring Solutions - [Chris Bailey](https://github.com/RuntimeTools), IBM
   * [Video](https://www.youtube.com/watch?v=ix3tRagIpwA)
   * Code
     * [Library](https://github.com/RuntimeTools/appmetrics)
 
-* Node.js Performance Optimization Case Study - Bryce Baril, NodeSource
+* Node.js Performance Optimization Case Study - [Bryce Baril](https://github.com/brycebaril), NodeSource
   * [Video](https://www.youtube.com/watch?v=MnA-IDpd6Sg)
 
 ### Client side
-* Getting Sassy with Node.js - David Khourshid, Counsyl
+* Getting Sassy with Node.js - [David Khourshid](https://github.com/davidkpiano), Counsyl
   * [Video](https://www.youtube.com/watch?v=oVmdBsbZKAs)
   * Code
     * [Library](https://github.com/davidkpiano/sassport)
 
-* Real-time Collaboration Sync Strategies - Todd Kennedy, Scripto
+* Real-time Collaboration Sync Strategies - [Todd Kennedy](https://github.com/toddself), Scripto
   * [Video](https://www.youtube.com/watch?v=hERfh0GGHWU)
 
-* Terminal Output to the Browser in Seconds, Using UNIX Pipes - Kilian Ciuffolo and Luca Orio, Lukibear
+* Terminal Output to the Browser in Seconds, Using UNIX Pipes - [Kilian Ciuffolo](https://github.com/kilianc) and [Luca Orio](https://github.com/lucaorio), Lukibear
   * [Video](https://www.youtube.com/watch?v=5IHWfgX3RJs)
 
 * Plumbing the Depths of Handlebars - Ryan Lewis, Expedia
@@ -135,50 +135,51 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Modernizing Winston for Node.js v4 - [Charlie Robbins](https://github.com/indexzero), GoDaddy
   * [Video](https://www.youtube.com/watch?v=uPw7QIx3JZM)
 
-* Making Your Node.js Applications Debuggable - Patrick Mueller, NodeSource
+* Making Your Node.js Applications Debuggable - [Patrick Mueller](https://github.com/pmuellr), NodeSource
   * [Video](https://www.youtube.com/watch?v=gHrrgZmoY6E)
 
-* Carpentry with Duktape - Tyler Brock, Hustle Inc.
+* Carpentry with Duktape - [Tyler Brock](https://github.com/TylerBrock), Hustle Inc.
   * [Video](https://www.youtube.com/watch?v=1t_RtAeTKB0)
 
-* Building Twitter Bots in Node.js - Philip James, Eventbrite
+* Building Twitter Bots in Node.js - [Philip James](https://github.com/phildini), Eventbrite
   * [Video](https://www.youtube.com/watch?v=xkNOKSNSoVI)
+  * [Slides](https://speakerdeck.com/phildini/building-twitter-bots-in-node)
 
-* Rapid Development of Data Mining Applications in Node.js - Blaz Fortuna, AI Lab, Jozef Stefan Institute
+* Rapid Development of Data Mining Applications in Node.js - [Blaz Fortuna](https://github.com/blazf), AI Lab, Jozef Stefan Institute
   * [Video](https://www.youtube.com/watch?v=liA0ahRj9Nw)
 
 * Server-Side Rendering Isn’t Enough - Matthew Phillips, Phillips
   * [Video](https://www.youtube.com/watch?v=wRYdrfrL6ZQ)
 
-* Rebuilding the Ship as it Sails: Making Large Legacy Sites Responsive - Philip James, Eventbrite
+* Rebuilding the Ship as it Sails: Making Large Legacy Sites Responsive - [Philip James](https://github.com/phildini), Eventbrite
   * [Video](https://www.youtube.com/watch?v=D9TUU5bK0iE)
 
-* NPM Everywhere - Mike MacCana, CertSimple
+* NPM Everywhere - [Mike MacCana](https://github.com/mikemaccana), CertSimple
   * [Video](https://www.youtube.com/watch?v=d_5SXW3a1-I)
   * [Slides](http://mikemaccana.github.io/npm-everywhere/#1)
 
-* Node.js Intl: Where We Are and What's Next - Steven Loomis, IBM
+* Node.js Intl: Where We Are and What's Next - [Steven Loomis](https://github.com/srl295), IBM
   * [Video](https://www.youtube.com/watch?v=U0z_yO5gFP8)
 
-* Offline-First Apps with PouchDB - Bradley Holt, IBM Cloudant
+* Offline-First Apps with PouchDB - [Bradley Holt](https://github.com/bradley-holt), IBM Cloudant
   * [Video](https://www.youtube.com/watch?v=7L7esHWAjSU)
   * Code
     * [Example](https://github.com/bradley-holt/offline-first)
 
-* Building Interactive npm Command Line Modules -- All The Things. - Irina Shestak
+* Building Interactive npm Command Line Modules -- All The Things. - [Irina Shestak](https://github.com/lrlna)
   * [Video](https://www.youtube.com/watch?v=QLat0Y3jqUA)
 
 * JavaScript, For Science! - Max Ogden, DAT Project
   * [Video](https://www.youtube.com/watch?v=_3oykSKOito)
 
-* Building Node.js powered mobile apps with Red Hat Mobile - Greg Rewis, Red Hat
+* Building Node.js powered mobile apps with Red Hat Mobile - [Greg Rewis](https://github.com/garazi), Red Hat
   * [Video](https://www.youtube.com/watch?v=9aztIag_r5s)
 
 ### IoT
-* Internet of Cats - Rachel White, IBM
+* Internet of Cats - [Rachel White](https://github.com/rachelnicole), IBM
   * [Video](https://www.youtube.com/watch?v=cEIYSOxDiqE)
 
-* JavaScript and the Internet of Things - Andrew Chalkley, Treehouse
+* JavaScript and the Internet of Things - [Andrew Chalkley](https://github.com/chalkers), Treehouse
   * [Video](https://www.youtube.com/watch?v=KS6GxMOJjA8)
 
 * Hands on Hardware Workshop with Tessel - Kelsey Breseman, Tessel Project
@@ -187,10 +188,10 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * The State of Electron - Max Ogden, Jessica Lord, DAT Project
   * [Video](https://www.youtube.com/watch?v=RaPmi-33rfc)
 
-* IoT Lock Down - Adam Englander, LaunchKey, Inc.
+* IoT Lock Down - [Adam Englander](https://github.com/aenglander), LaunchKey, Inc.
   * [Video](https://www.youtube.com/watch?v=NajRdsNqtMw)
 
-* JavaScript for IoTivity - Sakari Poussa, Intel
+* JavaScript for IoTivity - [Sakari Poussa](https://github.com/poussa), Intel
   * [Video](https://www.youtube.com/watch?v=02TPB0yvdD4)
 
 * IoT Services Orchestration Layer – Helps You Create IoT Apps in Minutes - Jonathan Ding, Intel
@@ -199,25 +200,25 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Intel XDK IoT Edition & Bluetooth Low Energy - Elroy Ashtian, Intel
   * [Video](https://www.youtube.com/watch?v=_0yIH6g67Gg)
 
-* Home Automation with Node.js and MQTT - Michael Dawson, IBM
+* Home Automation with Node.js and MQTT - [Michael Dawson](https://github.com/mhdawson), IBM
   * [Video](https://www.youtube.com/watch?v=80DxfDmoZUI)
   * Code
     * [Library](https://github.com/mhdawson/HomeAlarm)
 
-* NodeBots at Scale - Matteo Collina, nearForm
+* NodeBots at Scale - [Matteo Collina](https://github.com/mcollina), nearForm
   * [Video](https://www.youtube.com/watch?v=CGGGklIfigc)
 
-* Home Automation with Node.js and RasperryPi - Mariano Campo, MercadoLibre
+* Home Automation with Node.js and RasperryPi - [Mariano Campo](https://github.com/mcampo, MercadoLibre
   * [Video](https://www.youtube.com/watch?v=N8lFHdM5pIk)
 
 * Node.js Development for the Next Generation of IoT - Melissa Evers-Hood and Paul Cooper, Intel
   * [Video](https://www.youtube.com/watch?v=jx4W13TIvsc)
 
-* Node.js While Crafting - Make Textile to Compute! - Mariko Kosaka, Scripto
+* Node.js While Crafting - Make Textile to Compute! - [Mariko Kosaka](https://github.com/kosamari), Scripto
   * [Video](https://www.youtube.com/watch?v=lLvRmjVVkTY)
 
 * V8 Engine of Node.js on IA: JavaScript-JITTED x86 Machine Code Mapping Profiling Support and X87 Quark Processor Enabling - Chunyang Dai, Intel
   * [Video](https://www.youtube.com/watch?v=bIrN8oy6vOY)
 
-* Contributing to Node.js Core - Jeremiah Senkpiel, NodeSource
+* Contributing to Node.js Core - [Jeremiah Senkpiel](https://github.com/Fishrock123), NodeSource
   * [Video](https://www.youtube.com/watch?v=9tbKIRbuF6k)
