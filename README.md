@@ -160,6 +160,9 @@ This list is divided into sections by keynotes, panels lightning talks and break
 
 * Node.js Intl: Where We Are and What's Next - [Steven Loomis](https://github.com/srl295), IBM
   * [Video](https://www.youtube.com/watch?v=U0z_yO5gFP8)
+  * [Slides](https://rawgit.com/srl295/srl295-slides/7fdcfec64da215d71d16dee80261883eb610196b/index.html#1)
+  * Code
+    * [Example](https://github.com/srl295/srl295-slides/tree/2015-12-NodeInteractive)
 
 * Offline-First Apps with PouchDB - [Bradley Holt](https://github.com/bradley-holt), IBM Cloudant
   * [Video](https://www.youtube.com/watch?v=7L7esHWAjSU)
