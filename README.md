@@ -103,16 +103,14 @@ This list is divided into sections by keynotes, panels lightning talks and break
 
 * Peer-to-Peer Numeric Computing with JavaScript - [Athan Reines](https://github.com/kgryte), Verbify, Inc.
   * [Video](https://www.youtube.com/watch?v=CbYDU1XFhHg)
-  * Code
-    * [Example](https://github.com/kgryte/talks-nodejs-interactive-2015)
+  * [Code](https://github.com/kgryte/talks-nodejs-interactive-2015)
 
 * Microservice Developer Experience - [Peter Elger](https://github.com/pelger), nearForm
   * [Video](https://www.youtube.com/watch?v=jm75pxsb80c)
 
 * How to Build and Deploy Open Source Application Monitoring Solutions - [Chris Bailey](https://github.com/RuntimeTools), IBM
   * [Video](https://www.youtube.com/watch?v=ix3tRagIpwA)
-  * Code
-    * [Library](https://github.com/RuntimeTools/appmetrics)
+  * [Code](https://github.com/RuntimeTools/appmetrics)
 
 * Node.js Performance Optimization Case Study - [Bryce Baril](https://github.com/brycebaril), NodeSource
   * [Video](https://www.youtube.com/watch?v=MnA-IDpd6Sg)
@@ -120,8 +118,7 @@ This list is divided into sections by keynotes, panels lightning talks and break
 ### Client side
 * Getting Sassy with Node.js - [David Khourshid](https://github.com/davidkpiano), Counsyl
   * [Video](https://www.youtube.com/watch?v=oVmdBsbZKAs)
-  * Code
-    * [Library](https://github.com/davidkpiano/sassport)
+  * [Code](https://github.com/davidkpiano/sassport)
 
 * Real-time Collaboration Sync Strategies - [Todd Kennedy](https://github.com/toddself), Scripto
   * [Video](https://www.youtube.com/watch?v=hERfh0GGHWU)
@@ -161,13 +158,11 @@ This list is divided into sections by keynotes, panels lightning talks and break
 * Node.js Intl: Where We Are and What's Next - [Steven Loomis](https://github.com/srl295), IBM
   * [Video](https://www.youtube.com/watch?v=U0z_yO5gFP8)
   * [Slides](https://rawgit.com/srl295/srl295-slides/7fdcfec64da215d71d16dee80261883eb610196b/index.html#1)
-  * Code
-    * [Example](https://github.com/srl295/srl295-slides/tree/2015-12-NodeInteractive)
+  * [Code](https://github.com/srl295/srl295-slides/tree/2015-12-NodeInteractive)
 
 * Offline-First Apps with PouchDB - [Bradley Holt](https://github.com/bradley-holt), IBM Cloudant
   * [Video](https://www.youtube.com/watch?v=7L7esHWAjSU)
-  * Code
-    * [Example](https://github.com/bradley-holt/offline-first)
+  * [Code](https://github.com/bradley-holt/offline-first)
 
 * Building Interactive npm Command Line Modules -- All The Things. - [Irina Shestak](https://github.com/lrlna)
   * [Video](https://www.youtube.com/watch?v=QLat0Y3jqUA)
@@ -205,8 +200,7 @@ This list is divided into sections by keynotes, panels lightning talks and break
 
 * Home Automation with Node.js and MQTT - [Michael Dawson](https://github.com/mhdawson), IBM
   * [Video](https://www.youtube.com/watch?v=80DxfDmoZUI)
-  * Code
-    * [Library](https://github.com/mhdawson/HomeAlarm)
+  * [Code](https://github.com/mhdawson/HomeAlarm)
 
 * NodeBots at Scale - [Matteo Collina](https://github.com/mcollina), nearForm
   * [Video](https://www.youtube.com/watch?v=CGGGklIfigc)
