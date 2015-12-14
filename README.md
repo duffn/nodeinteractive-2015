@@ -1,7 +1,7 @@
 # Node Interactive 2015
-This is a list - with video, slides and code when available (coming soon) - of all the keynotes, talks and panels from [Node Interactive 2015](http://events.linuxfoundation.org/events/node-interactive). This event took place on December 8-9, 2015 in Portland, Oregon, USA.
+This is a list - with video, slides and code when available - of all the keynotes, talks and panels from [Node Interactive 2015](http://events.linuxfoundation.org/events/node-interactive). This event took place on December 8-9, 2015 in Portland, Oregon, USA.
 
-This list is divided into sections by keynotes, panels lightning talks and breakouts. Breakouts are further divided into backend, client side or IoT categories as noted on the [conference schedule](http://events.linuxfoundation.org/events/node-interactive/program/schedule).
+This list is divided into sections by keynotes, panels, lightning talks and breakouts. Breakouts are further divided into backend, client side or IoT categories as noted on the [conference schedule](http://events.linuxfoundation.org/events/node-interactive/program/schedule).
 
 ## Keynotes
 * Convergence: Evolving Node.js with Open Governance and an Open Community - [James Snell](https://github.com/jasnell), IBM
