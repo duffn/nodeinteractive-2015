@@ -15,6 +15,7 @@ This list is divided into sections by keynotes, panels lightning talks and break
 
 * Node.js and npm by Numbers - [Ashley Williams](https://github.com/ashleygwilliams), npm
   * [Video](https://www.youtube.com/watch?v=5ikjwX2ur2U)
+  * [Slides](http://ashleygwilliams.github.io/npm-by-the-numbers/#1)
 
 * Serving the Node.js Enterprise, Thus Serving the Community - [Joe McCann](https://github.com/joemccann), NodeSource
   * [Video](https://www.youtube.com/watch?v=wF1oNXeFnWI)
