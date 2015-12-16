@@ -69,6 +69,7 @@ This list is divided into sections by keynotes, panels, lightning talks and brea
 ### Backend
 * Streams and You: A Love Story - [Calvin Metcalf](https://github.com/calvinmetcalf), App Geo
   * [Video](https://www.youtube.com/watch?v=TyXgy5Wm948)
+  * [Slides](http://streams.how/)
 
 * Make Printers Great Again - [Thomas Watson](https://github.com/watson), Opbeat
   * [Video](https://www.youtube.com/watch?v=58Ti8w1yX2w)
