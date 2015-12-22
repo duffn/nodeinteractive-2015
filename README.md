@@ -164,6 +164,7 @@ This list is divided into sections by keynotes, panels, lightning talks and brea
 
 * Offline-First Apps with PouchDB - [Bradley Holt](https://github.com/bradley-holt), IBM Cloudant
   * [Video](https://www.youtube.com/watch?v=7L7esHWAjSU)
+  * [Slides](https://speakerdeck.com/bradleyholt/offline-first-apps-with-pouchdb-at-node-dot-js-interactive)
   * [Code](https://github.com/bradley-holt/offline-first)
 
 * Building Interactive npm Command Line Modules -- All The Things. - [Irina Shestak](https://github.com/lrlna)
